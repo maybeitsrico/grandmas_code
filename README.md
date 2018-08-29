@@ -1,2 +1,4 @@
 # grandmas_code
-mom is actually learning how to code
+grandma is actually learning how to code
+
+hello its grandma, whats good?
